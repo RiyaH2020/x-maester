@@ -5,7 +5,7 @@ public static void main(String[] args)
 
  void Hello()
 {
-
+ System.out.println(" User 1 says Hello!");
 }
 
 }
